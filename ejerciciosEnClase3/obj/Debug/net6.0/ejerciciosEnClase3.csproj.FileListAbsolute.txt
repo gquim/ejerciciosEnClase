@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\bin\Debug\net6.0\ejerciciosEnClase3.exe
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\bin\Debug\net6.0\ejerciciosEnClase3.deps.json
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\bin\Debug\net6.0\ejerciciosEnClase3.runtimeconfig.json
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\bin\Debug\net6.0\ejerciciosEnClase3.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\bin\Debug\net6.0\ejerciciosEnClase3.pdb
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.AssemblyInfo.cs
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\refint\ejerciciosEnClase3.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.pdb
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ejerciciosEnClase3.genruntimeconfig.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase3\obj\Debug\net6.0\ref\ejerciciosEnClase3.dll

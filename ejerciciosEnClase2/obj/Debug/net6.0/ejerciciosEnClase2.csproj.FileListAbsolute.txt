@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\bin\Debug\net6.0\ejerciciosEnClase2.exe
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\bin\Debug\net6.0\ejerciciosEnClase2.deps.json
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\bin\Debug\net6.0\ejerciciosEnClase2.runtimeconfig.json
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\bin\Debug\net6.0\ejerciciosEnClase2.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\bin\Debug\net6.0\ejerciciosEnClase2.pdb
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.AssemblyInfo.cs
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\refint\ejerciciosEnClase2.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.pdb
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ejerciciosEnClase2.genruntimeconfig.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase2\obj\Debug\net6.0\ref\ejerciciosEnClase2.dll
